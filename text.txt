@@ -1,0 +1,7 @@
+
+
+
+参考にしたサイト
+
+PHP10行で作る超シンプルフレームワーク
+http://choilog.com/katty0324/blog/6
